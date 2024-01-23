@@ -109,6 +109,11 @@
         font-size: 24px;
         font-weight: 600;
         line-height: 150%;
+        transition: all 0.3s ease-out;
+
+        &:hover {
+          color: #9C9B9B;
+        }
       }
 
       &-icons {
